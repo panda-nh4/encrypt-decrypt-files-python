@@ -1,0 +1,10 @@
+ env1
+ __pycache__
+ key1
+ scorched_earth
+ make_key
+ help
+ encrypt
+ delete
+ decrypt
+ .gitignore
